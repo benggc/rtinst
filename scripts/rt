@@ -7,7 +7,7 @@
 #  --> Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
 #
 ######################################################################
-
+SQSQQRT
 # rTorrent Stop/Start/Restart
 PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/bin:/sbin
 FILE="$HOME/rtorrent/.session/rtorrent.lock"
